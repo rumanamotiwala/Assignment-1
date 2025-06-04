@@ -1,0 +1,66 @@
+/* style.css */
+
+/* Banner Styling */
+.banner {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* This centers the image horizontally */
+    border: 2px solid #fff;
+  
+  }
+  
+  
+  /* General Body Styling */
+  body {
+  
+    margin: 20px;
+    /* padding: 0; */
+    background-color: #000;
+    
+  }
+  
+  /* Heading Styling */
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+  }
+  
+  /* Paragraph Styling */
+  p {
+    width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    font-size: 23px;
+    color: #fff;
+  }
+  /* .next-button{
+    color: #fff;
+  } */
+  
+
+  .button-container {
+    text-align: center; /* centers inline elements like links */
+    margin-top: 50px;   /* optional spacing above */
+  }
+
+  .next-button {
+    padding: 10px 20px;
+    background-color: #000; /* Darker blue on hover */
+    color: #fff;
+    border: 1px solid #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+  }
+  
+  .next-button:hover {
+    background-color: #fff; /* Blue */
+    color: #000;
+    border: 1px solid #000;
+  }
+
+ 
+
+ 
